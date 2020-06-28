@@ -5,6 +5,9 @@
 
 _Esse código foi feito com o propósito de ser o mais didático e não o mais correto_
 
+
+![demo](/demo.gif)
+
 ### Rodar
 
 Sete as var ambiente no `server/makefile`
